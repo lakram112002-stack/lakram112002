@@ -1,2 +1,9 @@
-# lakram112002
-My personal repo
+#About me
+
+**Bold Text**
+
+http://example.com
+
+~~The world is flat~~
+
+This is funny! 😂
